@@ -1,2 +1,2 @@
 # test1
-![캡처](/1.PNG)
+<img src="/1.PNG"  width="700" height="370">
